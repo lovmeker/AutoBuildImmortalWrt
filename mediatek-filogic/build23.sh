@@ -60,6 +60,7 @@ PACKAGES="$PACKAGES luci-theme-argon"
 PACKAGES="$PACKAGES luci-app-argon-config"
 PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-diskman-zh-cn"
+# PACKAGES="$PACKAGES luci-app-adguardhome luci-app-passwall2 luci-app-netwizard luci-app-quickstart luci-theme-kucat luci-theme-aurora luci-app-uninstall"
 #23.05
 PACKAGES="$PACKAGES luci-i18n-opkg-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
